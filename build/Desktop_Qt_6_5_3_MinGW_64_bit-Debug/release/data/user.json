@@ -1,0 +1,22 @@
+[
+    {
+        "creationDate": "2024-04-27T06:18:19",
+        "email": "banana",
+        "lastLogin": "",
+        "name": "banana",
+        "password": "b493d48364afe44d11c0165cf470a4164d1e2609911ef998be868d46ade3de4e",
+        "role": "admin",
+        "status": "active",
+        "username": "banana"
+    },
+    {
+        "creationDate": "2024-04-28T04:44:00",
+        "email": "yosef",
+        "lastLogin": "2024-04-28T04:44:00",
+        "name": "yosef",
+        "password": "2cda58c095153f7106e0d1610952ec7c8ab6ad0b1f1c1ac109b1deafd0df581d",
+        "role": "user",
+        "status": "",
+        "username": "yosef"
+    }
+]

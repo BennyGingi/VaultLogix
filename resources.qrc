@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/add.png</file>
+        <file>assets/edit.png</file>
+        <file>assets/help.svg</file>
+        <file>assets/remove.png</file>
+        <file>assets/search.png</file>
+        <file>assets/sell.png</file>
+        <file>assets/setting.png</file>
+        <file>data/item.json</file>
+        <file>data/purchaseorder.json</file>
+        <file>data/user.json</file>
+        <file>assets/light.png</file>
+        <file>assets/dark.png</file>
+        <file>assets/loginwindowbackground.png</file>
+        <file>assets/loginwindow_logoPNG.png</file>
+        <file>assets/mainwindow.png</file>
+        <file>budget.json</file>
+        <file>styles/dark.qss</file>
+        <file>styles/light.qss</file>
+        <file>assets/budget.png</file>
+        <file>assets/theme.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,87 @@
+    /* Light Theme */
+    QWidget {
+        background-color: #f0f0f0;
+        color: #333333;
+    }
+
+    QLineEdit {
+        background-color: #ffffff;
+        color: #333333;
+        border: 1px solid #cccccc;
+        border-radius: 4px;
+        padding: 4px;
+    }
+
+    QPushButton {
+        background-color: #5cacee;
+        color: white;
+        border-radius: 4px;
+        padding: 6px 12px;
+        font-weight: bold;
+    }
+
+    QPushButton:hover {
+        background-color: #3b82f6;
+    }
+
+    QTableView {
+        gridline-color: #cccccc;
+        alternate-background-color: #f9f9f9;
+    }
+
+    QHeaderView::section {
+        background-color: #f0f0f0;
+        color: #333333;
+        font-weight: bold;
+        padding: 4px;
+    }
+
+    QLabel {
+        color: #333;
+        font-size: 14px;
+        padding: 2px;
+    }
+
+    QCheckBox {
+        spacing: 5px;
+    }
+
+    QCheckBox::indicator {
+        width: 15px;
+        height: 15px;
+    }
+
+    /* Dark Theme */
+    QWidget[darkMode="true"] {
+        background-color: #333333;
+        color: #f0f0f0;
+    }
+
+    QLineEdit[darkMode="true"] {
+        background-color: #555555;
+        color: #ffffff;
+        border: 1px solid #777777;
+    }
+
+    QPushButton[darkMode="true"] {
+        background-color: #5c5c5c;
+        color: white;
+    }
+
+    QPushButton[darkMode="true"]:hover {
+        background-color: #777777;
+    }
+
+    QTableView[darkMode="true"] {
+        gridline-color: #555555;
+        alternate-background-color: #444444;
+    }
+
+    QHeaderView[darkMode="true"]::section {
+        background-color: #333333;
+        color: #f0f0f0;
+    }
+
+    QLabel[darkMode="true"] {
+        color: #f0f0f0;
+    }
